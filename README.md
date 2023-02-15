@@ -20,7 +20,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Graphic Designer & UX/UI Designer
 ---------------------------------
 
-I have been a graphic designer for 5 years.
+I have been a graphic designer for 5 years. [Freelance] 
 
 * 🌍  I'm based in Bangkok, Thailand
 * 🖥️  See my portfolio at [My Port](https://mizter4rm.my.canva.site/mizterarm-site)
