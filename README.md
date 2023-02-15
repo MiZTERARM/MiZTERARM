@@ -38,7 +38,7 @@ I have been a graphic designer for 5 years. [Freelance]
 
 
 ### Socials
-<p align="left"
+<p align="left">
 <a href="https://www.instagram.com/__arm.rp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> &nbsp
 <a href="https://www.facebook.com/arm.rrp" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> &nbsp
 <a href="https://www.youtube.com/@Mizterarm" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a></p>
