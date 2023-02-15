@@ -10,6 +10,16 @@ Graphic Designer | UX/UI Designer | Photographer
 * 🎓  I graduated from King Mongkut’s University of Technology Thonburi (B.Sc. IT)
 * 🖥️  See my portfolio at [My Portfolio](https://mizter4rm.my.canva.site/mizterarm-site)
 
+### EXPERTISE
+* Graphic Design Skills
+* Photograph Skills
+* Management Skills
+* Digital Marketing
+* Critical Thinking
+* Creative Thinking
+* Good Teamwork
+* Always Learning
+
 ### Skills
 
 
