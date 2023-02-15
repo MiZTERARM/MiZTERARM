@@ -4,9 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Graphic Designer | UX/UI Designer | Photographer
 ---------------------------------
 
-<p> I have been a graphic designer for 4 years. [Freelance] </p>
-<p> I have been a Photographer for 3 years. [Freelance] </p>
-
+I have been a graphic designer for 4 years. [Freelance]
 
 * 🌍  I'm based in Bangkok, Thailand
 * 🖥️  See my portfolio at [My Portfolio](https://mizter4rm.my.canva.site/mizterarm-site)
