@@ -1,10 +1,12 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Rapeepat Petchnamploy
 ============================================================================================================================================
 
-Graphic Designer & UX/UI Designer
+Graphic Designer | UX/UI Designer | Photographer
 ---------------------------------
 
-I have been a graphic designer for 5 years. [Freelance] 
+I have been a graphic designer for 4 years. [Freelance] 
+I have been a Photographer for 3 years. [Freelance] 
+
 
 * 🌍  I'm based in Bangkok, Thailand
 * 🖥️  See my portfolio at [My Portfolio](https://mizter4rm.my.canva.site/mizterarm-site)
