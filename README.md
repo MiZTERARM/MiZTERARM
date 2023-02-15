@@ -14,9 +14,8 @@ Graphic Designer | UX/UI Designer | Photographer
 * Graphic Design Skills
 * Photograph Skills
 * Management Skills
-* Digital Marketing
-* Critical Thinking
-* Creative Thinking
+* Critical Thinking Skills
+* Creative Thinking Skills
 * Good Teamwork
 * Always Learning
 
