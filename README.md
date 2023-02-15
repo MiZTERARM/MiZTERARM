@@ -7,7 +7,8 @@ Graphic Designer | UX/UI Designer | Photographer
 <b>I have been a graphic designer for 4 years. [Freelance]</b>
 
 * 🌍  I'm based in Bangkok, Thailand
-* 🖥️  See my portfolio at [My Portfolio](https://mizter4rm.my.canva.site/mizterarm-site)
+* 🎓  I graduated from King Mongkut’s University of Technology Thonburi (B.Sc. IT)
+* 🖥️  See my portfolio at [My Portfolio](https://mizter4rm.my.canva.site/mizterarm-site)
 
 ### Skills
 
