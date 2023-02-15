@@ -23,7 +23,7 @@ Graphic Designer & UX/UI Designer
 I have been a graphic designer for 5 years. [Freelance] 
 
 * 🌍  I'm based in Bangkok, Thailand
-* 🖥️  See my portfolio at [My Port](https://mizter4rm.my.canva.site/mizterarm-site)
+* 🖥️  See my portfolio at [My Portfolio](https://mizter4rm.my.canva.site/mizterarm-site)
 <!--
 ### Skills
 
