@@ -40,6 +40,14 @@ Graphic Designer | UX/UI Designer | Photographer
 <a href="https://www.facebook.com/arm.rrp" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> &nbsp
 <a href="https://www.youtube.com/@Mizterarm" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a></p>
   
+#### 🔗 Find me on the following platforms
+
+[![Instagram](./assets/instagram.svg)](https://www.instagram.com/juliocodes) [![YouTube](./assets/youtube.svg)](https://www.youtube.com/@juliocodes)
+
+#### 💻 Technologies that I use
+
+![HTML5](./assets/html.svg) ![CSS3](./assets/css.svg) ![SASS](./assets/sass.svg) ![Bootstrap](./assets/bootstrap.svg) ![TailwindCSS](./assets/tailwind.svg) ![JavaScript](./assets/javascript.svg) ![React](./assets/react.svg)
+
 ### Badges
 
 <b>My GitHub Stats</b>
