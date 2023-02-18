@@ -35,7 +35,7 @@ Graphic Designer | UX/UI Designer | Photographer
 
 
 ### Socials
-[![Instagram](./assets/instagram.svg)](https://www.instagram.com/__arm.rp/) [![YouTube](./assets/youtube.svg)](https://www.youtube.com/@Mizterarm)  [![Facebook](./assets/facebook.svg)](https://www.facebook.com/arm.rrp)
+[![Instagram](./assets/instagram.svg)](https://www.instagram.com/__arm.rp/) [![YouTube](./assets/youtube.svg)](https://www.youtube.com/@Mizterarm) 
 
 <!--<p align="left">
 <a href="https://www.instagram.com/__arm.rp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> &nbsp  
