@@ -4,7 +4,14 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Graphic Designer | UX/UI Designer | Photographer
 ---------------------------------
 
-<b>I have been a graphic designer for 4 years. [Freelance]</b>
+<p><b>I have been ...</b><br>
+<ul>
+ <li> Graphic designer for 4 years. [Freelance]<br>
+ <li> Photographer for 3 years. [Freelance]
+ <li> UX/UI Designer [in training...]
+</ul>
+</p>
+<br>
 
 * 🌍  I'm based in Bangkok, Thailand
 * 🎓  I graduated from King Mongkut’s University of Technology Thonburi (B.Sc. IT)
@@ -15,17 +22,20 @@ Graphic Designer | UX/UI Designer | Photographer
 * Photograph Skills
 * Management Skills
 * Critical Thinking Skills
-* Creative Thinking Skills
+* Creative Skills
 * Good Teamwork
 * Always Learning
 
-### Skills
+### Programming Skills
 ![HTML5](./assets/html.svg) ![CSS3](./assets/css.svg) ![JavaScript](./assets/javascript.svg) ![React](./assets/react.svg)
+
+### Design Skills
 
 <!--<p align="left">
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a> &nbsp  
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a> &nbsp  
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a> &nbsp  
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a> &nbsp 
+ 
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a> &nbsp  
 <a href="https://helpx.adobe.com/support/xd.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/xd-colored.svg" width="36" height="36" alt="XD" /></a> &nbsp  
 <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a> &nbsp  
@@ -36,12 +46,6 @@ Graphic Designer | UX/UI Designer | Photographer
 
 ### Socials
 [![Instagram](./assets/instagram.svg)](https://www.instagram.com/__arm.rp/) [![YouTube](./assets/youtube.svg)](https://www.youtube.com/@Mizterarm) [![Facebook](./assets/facebook.svg)](https://www.facebook.com/arm.rrp)
-
-<!--<p align="left">
-<a href="https://www.instagram.com/__arm.rp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> &nbsp  
-<a href="https://www.facebook.com/arm.rrp" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> &nbsp
-<a href="https://www.youtube.com/@Mizterarm" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a></p>
--->
 
 ### Badges
 
