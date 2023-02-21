@@ -15,7 +15,7 @@ Graphic Designer | UX/UI Designer | Photographer
 
 * 🌍  I'm based in Bangkok, Thailand
 * 🎓  I graduated from King Mongkut’s University of Technology Thonburi (B.Sc. IT)
-* 🖥️  See my portfolio at [My Portfolio](https://mizter4rm.my.canva.site/mizterarm-site)
+* 🖥️  See my portfolio at [My Portfolio](https://bit.ly/MiZTERARM-Portfolio)
 
 ### EXPERTISE
 * Graphic Design Skills
