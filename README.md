@@ -43,13 +43,5 @@ Graphic Designer | UX/UI Designer | Photographer
 [![Instagram](./assets/instagram.svg)](https://www.instagram.com/__arm.rp/) [![YouTube](./assets/youtube.svg)](https://www.youtube.com/@Mizterarm) [![Facebook](./assets/facebook.svg)](https://www.facebook.com/arm.rrp)
 
 ### My GitHub Stats
-
-<!-- <a href="http://www.github.com/MiZTERARM"><img src="https://github-readme-stats.vercel.app/api?username=MiZTERARM&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="MiZTERARM's GitHub stats" /></a>
-
-<a href="http://www.github.com/MiZTERARM"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=MiZTERARM&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
-<a href="https://github.com/MiZTERARM" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiZTERARM&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a> -->
-
-<p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiZTERARM&langs_count=10&theme=tokyonight&layout=compact" alt="AnhellO :: Top Langs" /></p>
-<p align="left"><img src="https://github-readme-stats.vercel.app/api?username=MiZTERARM&show_icons=true&theme=synthwave" alt="AnhellO :: Profile Stats" /></p>
-
+<p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiZTERARM&langs_count=10&theme=radical&hide=glsl,python" alt="MiZTERARM :: Top Langs" /></p>
+<p align="left"><img src="https://github-readme-stats.vercel.app/api?username=MiZTERARM&show_icons=true&theme=radical&line_height=27&v=5" alt="MiZTERARM :: Profile Stats" /></p>
