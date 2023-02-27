@@ -43,5 +43,5 @@ Graphic Designer | UX/UI Designer | Photographer
 [![Instagram](./assets/instagram.svg)](https://www.instagram.com/__arm.rp/) [![YouTube](./assets/youtube.svg)](https://www.youtube.com/@Mizterarm) [![Facebook](./assets/facebook.svg)](https://www.facebook.com/arm.rrp)
 
 ### My GitHub Stats
-<p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiZTERARM&langs_count=10&theme=radical&hide=glsl,python" alt="MiZTERARM :: Top Langs" /></p>
+<p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiZTERARM&show_icons=true&layout=compact&theme=radical&hide=glsl,python" alt="MiZTERARM :: Top Langs" /></p>
 <p align="left"><img src="https://github-readme-stats.vercel.app/api?username=MiZTERARM&show_icons=true&theme=radical&line_height=27&v=5" alt="MiZTERARM :: Profile Stats" /></p>
