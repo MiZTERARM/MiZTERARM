@@ -6,7 +6,7 @@ Graphic Designer | UX/UI Designer | Photographer
 
 <p><b>I have been ...</b><br>
 <ul>
- <li> Graphic designer for 4 years. [Freelance]<br>
+ <li> Graphic designer for 3 years. [Freelance]<br>
  <li> Photographer for 3 years. [Freelance]
  <li> UX/UI Designer [in training...]
 </ul>
