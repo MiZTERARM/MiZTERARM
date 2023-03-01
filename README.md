@@ -10,8 +10,7 @@ Graphic Designer | UX/UI Designer | Photographer
  <li> Photographer for 3 years. [Freelance]
  <li> UX/UI Designer [in training...]
 </ul>
-</p>
-<br>
+</p><br>
 
 * 🌍  I'm based in Bangkok, Thailand
 * 🎓  I graduated from King Mongkut’s University of Technology Thonburi (B.Sc. IT)
