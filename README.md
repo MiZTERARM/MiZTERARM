@@ -26,20 +26,24 @@ Graphic Designer | UX/UI Designer | Photographer
 * Always Learning
 
 ### Programming Skills
-![HTML5](./assets/html.svg) ![CSS3](./assets/css.svg) ![JavaScript](./assets/javascript.svg) ![React](./assets/react.svg)
+![HTML5](./assets/html.svg) 
+![CSS3](./assets/css.svg) 
+![JavaScript](./assets/javascript.svg) 
+![Csharp](./assets/C.svg)
+![React](./assets/react.svg)
 
 ### Design Skills
-![Figma](./assets/figma.svg)
-<p>
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a> &nbsp  
-<a href="https://helpx.adobe.com/support/xd.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/xd-colored.svg" width="36" height="36" alt="XD" /></a> &nbsp  
-<a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a> &nbsp  
-<a href="adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored.svg" width="36" height="36" alt="Illustrator" /></a> &nbsp  
-<a href="https://www.adobe.com/uk/products/premiere.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/premierepro-colored.svg" width="36" height="36" alt="Premiere Pro" /></a>
-</p>
+![Figma](./assets/figma.svg) 
+![Photoshop](./assets/Ps.svg) 
+![Illustrator](./assets/Ai.svg) 
+![Lightroom](./assets/Lr.svg) 
+![Xd](./assets/Xd.svg) 
+![Premiere Pro](./assets/Pr.svg)
 
 ### Socials
-[![Instagram](./assets/instagram.svg)](https://www.instagram.com/__arm.rp/) [![YouTube](./assets/youtube.svg)](https://www.youtube.com/@Mizterarm) [![Facebook](./assets/facebook.svg)](https://www.facebook.com/arm.rrp)
+[![Instagram](./assets/instagram.svg)](https://www.instagram.com/__arm.rp/) 
+[![YouTube](./assets/youtube.svg)](https://www.youtube.com/@Mizterarm) 
+[![Facebook](./assets/facebook.svg)](https://www.facebook.com/arm.rrp)
 
 ### My GitHub Stats
 <p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiZTERARM&show_icons=true&layout=compact&theme=radical" alt="MiZTERARM :: Top Langs" /></p>
