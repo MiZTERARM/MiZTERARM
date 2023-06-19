@@ -9,6 +9,7 @@ Graphic Designer | UX/UI Designer | Photographer
  <li> Graphic designer for 3 years. [Freelance]<br>
  <li> Photographer for 3 years. [Freelance]
  <li> UX/UI Designer [in training...]
+ <li> Graphic designer for 2 mount (Now)
 </ul>
 </p><br>
 
@@ -19,11 +20,9 @@ Graphic Designer | UX/UI Designer | Photographer
 ### EXPERTISE
 * Graphic Design Skills
 * Photograph Skills
-* Management Skills
 * Critical Thinking Skills
 * Creative Skills
 * Good Teamwork
-* Always Learning
 
 ### Programming Skills
 ![Csharp](./assets/C.svg)
