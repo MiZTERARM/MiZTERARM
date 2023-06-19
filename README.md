@@ -9,7 +9,7 @@ Graphic Designer | UX/UI Designer | Photographer
  <li> Graphic designer for 3 years. [Freelance]<br>
  <li> Photographer for 3 years. [Freelance]
  <li> UX/UI Designer [in training...]
- <li> Graphic designer for 2 mount (Now)
+ <li> Graphic designer for 2 month (Now)
 </ul>
 </p><br>
 
