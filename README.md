@@ -9,7 +9,7 @@ Graphic Designer | UX/UI Designer | Photographer
  <li> Graphic designer for 3 years. [Freelance]<br>
  <li> Photographer for 3 years. [Freelance]
  <li> UX/UI Designer [in training...]
- <li> Graphic designer for 2 month (Now)
+ <li> Graphic designer for 1 year. (Now)
 </ul>
 </p><br>
 
@@ -33,15 +33,14 @@ Graphic Designer | UX/UI Designer | Photographer
 
 ### Design Skills
 ![Figma](./assets/figma.svg) 
-![Photoshop](./assets/Ps.svg) 
 ![Illustrator](./assets/Ai.svg) 
+![Photoshop](./assets/Ps.svg) 
 ![Lightroom](./assets/Lr.svg) 
 ![Xd](./assets/Xd.svg) 
 ![Premiere Pro](./assets/Pr.svg)
 
 ### Socials
 [![Instagram](./assets/instagram.svg)](https://www.instagram.com/__arm.rp/) 
-[![YouTube](./assets/youtube.svg)](https://www.youtube.com/@Mizterarm) 
 [![Facebook](./assets/facebook.svg)](https://www.facebook.com/arm.rrp)
 [![GitHub](./assets/GitHub.svg)](https://github.com/MiZTERARM)
 
