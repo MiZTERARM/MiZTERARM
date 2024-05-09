@@ -9,7 +9,7 @@ Graphic Designer | UX/UI Designer | Photographer
  <li> Graphic designer for 3 years. [Freelance]<br>
  <li> Photographer for 3 years. [Freelance]
  <li> UX/UI Designer [in training...]
- <li> Graphic designer for 1 year. (Now)
+ <li> Graphic designer for 1 year. (Full-time Now!)
 </ul>
 </p><br>
 
@@ -38,12 +38,12 @@ Graphic Designer | UX/UI Designer | Photographer
 ![React](./assets/react.svg)
 
 ### Design Skills
-![Figma](./assets/figma.svg) 
 ![Illustrator](./assets/Ai.svg) 
 ![Photoshop](./assets/Ps.svg) 
 ![Lightroom](./assets/Lr.svg) 
-![Xd](./assets/Xd.svg) 
 ![Premiere Pro](./assets/Pr.svg)
+![Xd](./assets/Xd.svg) 
+![Figma](./assets/figma.svg) 
 
 ### Socials
 [![Instagram](./assets/instagram.svg)](https://www.instagram.com/__arm.rp/) 
