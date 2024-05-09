@@ -18,10 +18,16 @@ Graphic Designer | UX/UI Designer | Photographer
 * 🖥️  See my portfolio at [My Portfolio](https://bit.ly/MiZTERARM-Portfolio)
 
 ### EXPERTISE
-* Graphic Design Skills
-* Photograph Skills
-* Critical Thinking Skills
-* Creative Skills
+* Design Skills
+* Photo Shoot Skills
+* Technology Integration
+
+### Working Skills
+* Collaboration
+* Decision Making and Problem Solving
+* Creativity
+* Time Management
+* Adaptability
 * Good Teamwork
 
 ### Programming Skills
